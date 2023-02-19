@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adriano Paixão
 - 👀 I’m Doctor in Applied Economics
-- 🌱 I’m currently learning Economics
+- 🌱 I’m currently learning Statistics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
